@@ -9,7 +9,7 @@
 ## 📸 截图
 
 ### 亮色模式
-![Light Mode](./screenshots/light.png)
+![Light Mode](./screenshots/light_.png)
 
 ### 暗色模式
 ![Dark Mode](./screenshots/dark.png)
